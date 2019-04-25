@@ -34,7 +34,7 @@ import javafx.util.Duration;
 
 /**
  *  The FlappyGhost class inherits from the abstract Application class. Acts as the GUI for the game.
- *  authors EL-HAMAOUI, Christian & TOBON, Kevin
+ *  authors EL-HAMAOUI, Christian
  */
 public class FlappyGhost extends Application {
 
